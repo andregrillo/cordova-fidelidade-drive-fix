@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-myfidelidade-fix"
+           id="cordova-fidelidade-drive-fix"
       version="0.1.0">
 
-    <name>Cordova MyFidelidade Fix</name>
+    <name>Cordova Fidelidade Drive Fix</name>
     <license>MIT</license>
 
     <platform name="ios">		

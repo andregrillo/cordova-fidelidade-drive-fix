@@ -1,8 +1,8 @@
 {
-  "name": "cordova-myfidelidade-fix",
+  "name": "cordova-fidelidade-drive-fix",
   "version": "0.1.0",
   "cordova": {
-    "id": "cordova-myfidelidade-fix",
+    "id": "cordova-myfidelidade-drive-fix",
     "platforms": [
       "ios"
     ]
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andregrillo/cordova-myfidelidade-fix.git"
+    "url": "git+https://github.com/andregrillo/cordova-fidelidade-drive-fix.git"
   },
   "author": "Andre Grillo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andregrillo/cordova-myfidelidade-fix/issues"
+    "url": "https://github.com/andregrillo/cordova-fidelidade-drive-fix/issues"
   },
-  "homepage": "https://github.com/andregrillo/cordova-myfidelidade-fix",
+  "homepage": "https://github.com/andregrillo/cordova-fidelidade-drive-fix",
   "devDependencies": {}
 }
