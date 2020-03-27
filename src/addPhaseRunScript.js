@@ -2,7 +2,7 @@ var xcode = require('xcode');
 var fs = require('fs');
 var path = require('path');
 
-const projectPath = 'platforms/ios/MyFidelidade.xcodeproj/project.pbxproj';
+const projectPath = 'platforms/ios/Drive.xcodeproj/project.pbxproj';
 const myProj = xcode.project(projectPath);
 
 TARGET_BUILD_DIR = "${TARGET_BUILD_DIR}";
