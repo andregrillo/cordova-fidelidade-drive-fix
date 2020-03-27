@@ -7,7 +7,7 @@
     <name>Cordova MyFidelidade Fix</name>
     <license>MIT</license>
 
-    <hook type="before_plugin_install" src="src/installDependencies.js" />
+    <!-- <hook type="before_plugin_install" src="src/installDependencies.js" /> -->
     <hook type="after_plugin_install" src="src/addPhaseRunScript.js" />
 
 </plugin>
